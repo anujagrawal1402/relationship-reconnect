@@ -1,0 +1,6 @@
+{
+  "name": "Relationship Reconnect",
+  "description": "Personal brand portfolio website for Debashree Sanyal, Life Coach and founder of Relationship Reconnect in Bangalore, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
